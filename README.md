@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Sakifur Rahman 👋
 
-<!--
-**sakif004/sakif004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Quality Assurance Engineer | Automation Enthusiast
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Working as an SQA Engineer
+- 🤖 Learning Playwright & Cypress Automation
+- 🧪 Experienced in Manual, API & Automation Testing
+- 🌱 Currently learning Full-Stack Development
+- 🎯 Goal: Become an SDET / Software Engineer
+
+---
+
+## 🛠 Skills
+
+### Testing
+- Manual Testing
+- API Testing
+- Regression Testing
+- Smoke Testing
+- Test Case Writing
+- Bug Reporting
+
+### Automation
+- Cypress
+- Playwright
+- JavaScript
+- Python
+
+### Tools
+- Postman
+- JIRA
+- Git & GitHub
+- VS Code
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: your-linkedin-url
+- Email: your-email@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
